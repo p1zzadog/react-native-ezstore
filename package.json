@@ -1,14 +1,14 @@
 {
-  "name": "react-simple-ezstore",
+  "name": "react-native-ezstore",
   "version": "1.0.0",
   "description": "This library is a stripped down version of react-ezstore with the SuperAgentStore class removed, it is suitable for use with React-Native which has a fetch API baked in, making SuperAgent unnecessary",
-  "main": "react-simple-ezstore",
+  "main": "react-native-ezstore",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/p1zzadog/react-simple-ezstore.git"
+    "url": "git+https://github.com/p1zzadog/react-native-ezstore.git"
   },
   "keywords": [
     "react",
@@ -18,9 +18,9 @@
   "author": "Steve Moody and Greg Pasq",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/p1zzadog/react-simple-ezstore/issues"
+    "url": "https://github.com/p1zzadog/react-native-ezstore/issues"
   },
-  "homepage": "https://github.com/p1zzadog/react-simple-ezstore#readme",
+  "homepage": "https://github.com/p1zzadog/react-native-ezstore#readme",
   "dependencies": {
     "lodash": "^4.12.0"
   }
